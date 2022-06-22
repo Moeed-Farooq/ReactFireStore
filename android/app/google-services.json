@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662274803981",
+    "project_id": "react-firestore-881b7",
+    "storage_bucket": "react-firestore-881b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662274803981:android:2bba47c0133c92c2e24844",
+        "android_client_info": {
+          "package_name": "com.reactfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662274803981-9kdtlfeciphlhg99nqedus16n0gv97g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_5y__WDHTcs2KSQaES9bMM1FJj2QE7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662274803981-9kdtlfeciphlhg99nqedus16n0gv97g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
